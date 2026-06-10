@@ -1,0 +1,29 @@
+# Dataset files 
+MSLR-WEB10K/
+*.zip
+ 
+# Python virtual environment
+venv/
+env/
+.env
+ 
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+ 
+# Jupyter checkpoints
+.ipynb_checkpoints/
+ 
+# Model output files
+*.model
+*.pkl
+*.pickle
+ 
+# OS files
+.DS_Store
+Thumbs.db
+ 
+# VS Code
+.vscode/
